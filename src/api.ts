@@ -6,7 +6,7 @@ const config: AxiosRequestConfig = {
   timeout: 5000,
   headers: {
     'Content-Type': 'application/json',
-    'x-api-key': 'ak_9e16883b95258a12b93339bc8f836ac098f31590179d1b8a',
+    'x-api-key': '',
   },
 }
 
